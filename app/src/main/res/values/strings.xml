@@ -3,4 +3,8 @@
     <string name="image_description">This is the product\'s image</string>
     <string name="search_hint">Enter product name…</string>
     <string name="action_search">search</string>
+    <string name="product_name">Product name</string>
+    <string name="product_description">product description</string>
+    <string name="product_terms">product terms</string>
+    <string name="current_value">Current Value</string>
 </resources>
